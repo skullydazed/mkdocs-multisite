@@ -2,6 +2,8 @@
 
 Combine two folders of docs into a single site.
 
+Note- This is not yet fully functional.
+
 This plugin was written to support internationalization (i18n) and localization (l10n) on large mkdocs sites. It allows a translation to fall-back to the primary language of a site for documents that have not yet been translated.
 
 ## Setup
